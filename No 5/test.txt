@@ -1,0 +1,2 @@
+input : hellolleh
+output : hellolleh is a palindrome
